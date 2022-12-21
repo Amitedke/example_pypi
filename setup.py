@@ -5,10 +5,10 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.3"
 
-REPO_NAME = "IPYNBrenderer"
-AUTHOR_USER_NAME = "Amitedke"
-SRC_REPO = "IPYNBrenderer"
-AUTHOR_EMAIL = "amitedke@gmail.com"
+REPO_NAME = "<reponame>"
+AUTHOR_USER_NAME = "<yourname>"
+SRC_REPO = "<reponame>"
+AUTHOR_EMAIL = "<email>"
 
 setuptools.setup(
     name=SRC_REPO,
